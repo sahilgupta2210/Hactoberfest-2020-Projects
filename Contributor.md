@@ -13,4 +13,4 @@
 * [Shubham Prateek](https://github.com/Shubham-Prateek)
 * [Divyanshi Agarwal](https://github.com/Divyanshi29)
 * [Shreya Punetha](https://github.com/shreyapuntha)
-* [Sahil Gupta] (https://github.com/sahilgupta2210)
+* Sahil Gupta (https://github.com/sahilgupta2210)
